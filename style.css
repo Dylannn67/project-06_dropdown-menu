@@ -1,6 +1,10 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+
+.dropdown{
+    display:inline-block;
+}
 .dropdown button{
     background-color:blanchedalmond;
     padding:10px;
